@@ -16,7 +16,7 @@ main()
          n = n + 1;
     }
 
-    printf(“%d”, n-2);
+    printf("%d", n-2);
 
     return;
 }

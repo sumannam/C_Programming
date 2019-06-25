@@ -14,10 +14,12 @@ main()
         {
              sum = sum + a*b;
              b = b + 1;
-         }
-         a = a + 1;
-      }
+        }
+        a = a + 1;
+    }
 
-      return;
+	printf("%d %d\n", a, b);
+
+    return;
 }
 

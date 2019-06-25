@@ -14,13 +14,13 @@ void main(void)
         switch(color) 
 		{
 			case YELLOW : 
-				printf(“Yellow\n”); 
+				printf("Yellow\n"); 
 				break;
 			case RED : 
-				printf(“Red\n”); 
+				printf("Red\n"); 
 				break;
 			case BLUE : 
-				printf(“Blue\n”); 
+				printf("Blue\n"); 
 				break;
         }
     }

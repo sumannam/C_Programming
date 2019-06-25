@@ -7,9 +7,9 @@ int main(void)
 	sum= 0;
 	i = 0;
 	while (i< 10) {
-		scanf(“%d”, &n);
+		scanf("%d", &n);
 		sum += n;
 		i++;
 	}
-	printf(“%d\n”, sum);
+	printf("%d\n", sum);
 }

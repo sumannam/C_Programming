@@ -21,7 +21,7 @@ main()
          n = n + 1;
     }
 
-    printf(“%d”, sum);
+    printf("%d", sum);
 
     return;
 }

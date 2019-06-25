@@ -6,7 +6,7 @@ void main()
     char c;
 	c = getchar();
 	
-	while(c != ‘  ’)
+	while(c != ' ')
 	{
 		 putchar(c);
 		 c = getchar();

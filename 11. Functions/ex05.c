@@ -20,5 +20,5 @@ void main()
 {
     int m;
     m = max3(3, 4, 10);
-    printf(“%d\n”, m);
+    printf("%d\n", m);
 }

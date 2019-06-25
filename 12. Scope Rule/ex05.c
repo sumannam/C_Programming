@@ -16,5 +16,5 @@ void main(void)
 void do_nothing(void) 
 {
     static int cnt;
-    printf(“do_nothing is called %d time(s)\n”, ++cnt);
+    printf("do_nothing is called %d time(s)\n", ++cnt);
 }

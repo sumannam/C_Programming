@@ -13,7 +13,7 @@ void func(void)
 {
     static int s;
     int k;
-    printf(“%d %d\n”, k, ++s);
+    printf("%d %d\n", k, ++s);
     k = 10;
-    printf(“%d %d\n”, k, ++s);
+    printf("%d %d\n", k, ++s);
 }

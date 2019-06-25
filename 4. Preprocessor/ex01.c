@@ -6,5 +6,5 @@
 
 void main(void)
 {
-	printf(“%d, %f\n”, LIMIT, PI);
+	printf("%d, %f\n", LIMIT, PI);
 }

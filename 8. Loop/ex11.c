@@ -17,7 +17,7 @@ main()
          sum = sum + n;
     }
 
-    printf(“%d”, n-2);
+    printf("%d", n-2);
 
     return;
 }

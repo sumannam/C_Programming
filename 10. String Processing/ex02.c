@@ -7,7 +7,7 @@ void main()
 	
 	while(gets(data)  != NULL) 
 	{
-	    printf(“%s\n”, data);
+	    printf("%s\n", data);
 	}
 
 	return;

@@ -3,10 +3,10 @@
 
 void PrintHello(void) 
 {
-    printf(“Hello, World\n”);
+    printf("Hello, World\n");
     return;
 
-    printf(“Hellooooooo\n”);
+    printf("Hellooooooo\n");
 } 
 
 void main(void)

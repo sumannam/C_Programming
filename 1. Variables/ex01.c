@@ -4,7 +4,7 @@
 void main() 
 {
     int x;
-    scanf(“%d”, &x);
-    printf(“%d\n”, x*x);
+    scanf("%d", &x);
+    printf("%d\n", x*x);
     return;
 }

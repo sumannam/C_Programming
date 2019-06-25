@@ -12,5 +12,5 @@ void main()
 		i =+ 2;
 	}
 	
-	printf(“%d\n”, sum);
+	printf("%d\n", sum);
 }

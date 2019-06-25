@@ -19,9 +19,9 @@ void main(void)
     printf("%d\n", m);
     
 	m = max(a, c);
-    printf(“%d\n”, m);
+    printf("%d\n", m);
 
     m = max(b, c);
-    printf(“%d\n”, m);
+    printf("%d\n", m);
 }
 

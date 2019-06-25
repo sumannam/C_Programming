@@ -3,9 +3,9 @@
 
 int main(void)
 {
-	putchar(‘J’);
-	putchar(‘E’);
-	putchar(‘I’);
-	putchar(‘U’);
+	putchar('J');
+	putchar('E');
+	putchar('I');
+	putchar('U');
 } 
 

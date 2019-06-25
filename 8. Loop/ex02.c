@@ -9,5 +9,5 @@ void main()
 	for(i = 2; i <= 100; i =+ 2)
 		sum = sum + i;
 	
-	printf(“%d\n”, sum);	
+	printf("%d\n", sum);	
 }

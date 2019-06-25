@@ -13,14 +13,14 @@ void main(void)
 {
     int a, b, c, m;
 
-    scanf(“%d%d%d”, &a, &b, &c);
+    scanf("%d%d%d", &a, &b, &c);
 
     m = max(a, b);
-    printf(“%d\n”, m);
+    printf("%d\n", m);
 
     m = max(a, c);
-    printf(“%d\n”, m);
+    printf("%d\n", m);
 
     m = max(b, c);
-    printf(“%d\n”, m);
+    printf("%d\n", m);
 }

@@ -14,7 +14,7 @@ main()
           i = i + 1;
     }
 
-    printf(“%d”, sum);
+    printf("%d", sum);
 
     return;
 }

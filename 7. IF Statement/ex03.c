@@ -7,13 +7,13 @@ int main(void)
 	
 	switch (grade) 
 	{
-		case ‘A’ : 
-		case ‘B’ : 
-		case ‘C’ :
-		case ‘D’ : 
+		case 'A' : 
+		case 'B' : 
+		case 'C' :
+		case 'D' : 
 			printf("pass\n"); 
 			break; 
-		case ‘F’ : 
+		case 'F' : 
 			pritnf("fail\n"); 
 			break;
 		default : 

@@ -12,13 +12,15 @@ main()
         b = 1;
         while(b <= 10)
         {
-             sum = sum + a;
-             b = b + 1;
-         }
-         a = a + 1;
-      }
+            sum = sum + a;
+            b = b + 1;
+        }
+        a = a + 1;
+    }
 
-      return;
+    printf("%d %d\n", a, b);
+	
+	return;
 }
 
 

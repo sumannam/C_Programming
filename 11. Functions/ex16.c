@@ -6,7 +6,7 @@ void main()
     int i = 0, j = 1, k = 2;
     int temp;
 
-    printf(“%d %d %d\n”, i, j, k);
+    printf("%d %d %d\n", i, j, k);
 
     temp = i;
     i = j;
@@ -16,7 +16,7 @@ void main()
     j = k;
     k = temp;
 
-    printf(“%d %d %d\n”, i, j, k);
+    printf("%d %d %d\n", i, j, k);
 }
 
 

@@ -6,7 +6,7 @@ int main(void)
 	int a=3, b=2;
 	double c = a / b;
 
-	printf(“c=%f\n”, c);
+	printf("c=%f\n", c);
 	
 	return 0;
 }

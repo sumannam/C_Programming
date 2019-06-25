@@ -7,10 +7,10 @@ int main(void)
 	sum = 0;
 	for(i  = 0; i < 10; i++)
 	{ 
-		scanf(“%d”, &n);
+		scanf("%d", &n);
 		sum += n;
 	}
-	printf(“%d\n”, sum);
+	printf("%d\n", sum);
 	
 	return 0;
 }

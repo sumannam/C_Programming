@@ -12,6 +12,6 @@ float abs(float x)
 void main(void)
 {
     float y = -2.4;
-    printf(“%f\n”, y, abs(y));
+    printf("%f\n", y, abs(y));
 }
 

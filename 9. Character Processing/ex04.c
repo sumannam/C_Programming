@@ -4,7 +4,7 @@
 
 int main(void)
 {
-	while ((c = getchar()) != ‘\n’)
+	while ((c = getchar()) != '\n')
 	{
 		if(isupper(c))
 			putchar(tolower(c));
